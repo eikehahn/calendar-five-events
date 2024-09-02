@@ -8,11 +8,6 @@
             "label": "Global settings"
         },
         {
-            "type": "input",
-            "id": "mytext",
-            "label": "Mein Text"
-        },
-        {
             "type": "choice",
             "id": "CalendarGlobalNumberOfEvents",
             "label": "Number Of Events",
