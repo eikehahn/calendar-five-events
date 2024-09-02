@@ -183,6 +183,11 @@
             "label": "Location"
         },
         {
+            "type": "heading",
+            "label": "Event #6",
+            "id": "Event5"
+        },
+        {
             "type": "item",
             "id": "CalendarEvent6StartDateTime",
             "label": "Start Date/Time"
